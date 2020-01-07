@@ -1,0 +1,5 @@
+Q:\UnitTestsCSharp\TimCoreyProject\DemoLibrary\bin\Debug\DemoLibrary.dll
+Q:\UnitTestsCSharp\TimCoreyProject\DemoLibrary\bin\Debug\DemoLibrary.pdb
+Q:\UnitTestsCSharp\TimCoreyProject\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+Q:\UnitTestsCSharp\TimCoreyProject\DemoLibrary\obj\Debug\DemoLibrary.dll
+Q:\UnitTestsCSharp\TimCoreyProject\DemoLibrary\obj\Debug\DemoLibrary.pdb

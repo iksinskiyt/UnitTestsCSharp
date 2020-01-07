@@ -1,0 +1,13 @@
+Q:\UnitTestsCSharp\TimCoreyProject\WinFormUI\bin\Debug\PersonText.txt
+Q:\UnitTestsCSharp\TimCoreyProject\WinFormUI\bin\Debug\WinFormUI.exe.config
+Q:\UnitTestsCSharp\TimCoreyProject\WinFormUI\bin\Debug\WinFormUI.exe
+Q:\UnitTestsCSharp\TimCoreyProject\WinFormUI\bin\Debug\WinFormUI.pdb
+Q:\UnitTestsCSharp\TimCoreyProject\WinFormUI\bin\Debug\DemoLibrary.dll
+Q:\UnitTestsCSharp\TimCoreyProject\WinFormUI\bin\Debug\DemoLibrary.pdb
+Q:\UnitTestsCSharp\TimCoreyProject\WinFormUI\obj\Debug\WinFormUI.csprojAssemblyReference.cache
+Q:\UnitTestsCSharp\TimCoreyProject\WinFormUI\obj\Debug\WinFormUI.Dashboard.resources
+Q:\UnitTestsCSharp\TimCoreyProject\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+Q:\UnitTestsCSharp\TimCoreyProject\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+Q:\UnitTestsCSharp\TimCoreyProject\WinFormUI\obj\Debug\WinFormUI.csproj.CopyComplete
+Q:\UnitTestsCSharp\TimCoreyProject\WinFormUI\obj\Debug\WinFormUI.exe
+Q:\UnitTestsCSharp\TimCoreyProject\WinFormUI\obj\Debug\WinFormUI.pdb
